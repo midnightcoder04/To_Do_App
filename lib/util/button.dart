@@ -8,7 +8,8 @@ class AButton extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialButton(
-      onPressed: onPressed, 
-      child: Text(text));
+        onPressed: onPressed,
+        color: const Color.fromARGB(255, 194, 36, 222),
+        child: Text(text));
   }
 }
