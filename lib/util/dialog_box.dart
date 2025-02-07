@@ -2,23 +2,23 @@ import 'package:flutter/material.dart';
 import 'package:to_do_app/util/button.dart';
 
 class DialogBox extends StatelessWidget {
-  final controller;
+  final TextEditingController controller;
   final VoidCallback onSave;
   final VoidCallback onCancel;
 
   const DialogBox({
-    super.key, 
+    super.key,
     required this.controller,
     required this.onSave,
     required this.onCancel,
-    });
+  });
 
   @override
   Widget build(BuildContext context) {
     return AlertDialog(
         shape: RoundedRectangleBorder(borderRadius: BorderRadius.circular(8)),
         backgroundColor: Colors.purpleAccent,
-        content: Container(
+        content: SizedBox(
             height: 150,
             child: Column(
               mainAxisAlignment: MainAxisAlignment.spaceEvenly,

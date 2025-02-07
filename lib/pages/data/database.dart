@@ -11,7 +11,6 @@ class ToDoDataBase {
       {'taskName': 'Exercise', 'isDone': true},
       {'taskName': 'Make a FlutterApp', 'isDone': true},
       {'taskName': 'Study for exam', 'isDone': false},
-      {'taskName': 'Finish Freelance Work', 'isDone': false},
     ];
   }
 
