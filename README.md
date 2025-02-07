@@ -7,22 +7,22 @@ A simple To Do app built with Flutter to manage tasks using local storage (Hive)
 
 ## Setup:
 # Requirements:
-Flutter SDK: Follow the installation guide [here](https://docs.flutter.dev/get-started/install) <br />
-Android Studio/VS Code or any IDE for Flutter development. <br />
-An Android or iOS device/emulator to run the app.
+- Flutter SDK: Follow the installation guide [here](https://docs.flutter.dev/get-started/install) <br />
+- Android Studio/VS Code or any IDE for Flutter development. <br />
+- An Android or iOS device/emulator to run the app.
 
 ## Steps to Run:
 # Step 1:
-- Fork and clone the repository: <br />
+Fork and clone the repository: <br />
 ```
 git clone https://github.com/midnightcoder04/to_do_app.git
 ```
 # Step 2:
-- Cd to todo:
+Cd to todo:
 ```
 cd to_do_app
 ```
-- Install dependencies:
+Install dependencies:
 ```
 flutter pub get
 ```
