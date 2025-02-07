@@ -2,7 +2,9 @@
 A simple To Do app built with Flutter to manage tasks using local storage (Hive).
 
 ## Features:
-- Add, mark, and delete tasks.
+- Add tasks.
+- Delete tasks.
+- Cut off tasks.
 - Data persistence using Hive.
 
 # Setup:
