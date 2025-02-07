@@ -7,8 +7,7 @@ A simple To Do app built with Flutter to manage tasks using local storage (Hive)
 - Cut off tasks.
 - Data persistence using Hive.
 
-# Setup:
-## Requirements:
+# Requirements:
 - Flutter SDK: Follow the installation guide [here](https://docs.flutter.dev/get-started/install) <br />
 - Android Studio/VS Code or any IDE for Flutter development. <br />
 - An Android or iOS device/emulator to run the app.
