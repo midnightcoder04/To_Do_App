@@ -51,6 +51,8 @@ Feel free to open issues and create pull requests if you want to contribute. If 
  
 ## License
 Open-source under the MIT License.
-
+<br />
+<br />
+<br />
 Congrats on reaching the end of this readme file. Thank you for taking the time to read...
 
